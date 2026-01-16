@@ -10,7 +10,7 @@ body {
   background-color: #1e1e1e;
 }
 
-.conteiner {
+.container {
   max-width: 1130px;
   margin: auto;
   background-color: #ffffff;
@@ -47,7 +47,7 @@ a {
   color: #4a5c2f;
 }
 
-.header_seacrh {
+.header_search {
   width: 100%;
   max-width: 357px;
   padding: 20px 35px;
